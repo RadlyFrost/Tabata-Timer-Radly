@@ -1,7 +1,11 @@
 # Tabata Timer Radly
 ## Simple tabata timer
 
-Простой Табата таймер для тренировок. Есть также секундомер и таймер обратного отсчёта.
+Простой Табата таймер для тренировок. 
+Поддерживает функции:
+* табата таймер,
+* секундомер ,
+* таймер обратного отсчёта.
 
 Simple Tabata timer for work out. There is timer and countdown also.
 
