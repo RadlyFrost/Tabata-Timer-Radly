@@ -7,7 +7,11 @@
 * секундомер ,
 * таймер обратного отсчёта.
 
-Simple Tabata timer for work out. There is timer and countdown also.
+Simple Tabata timer for work out. 
+Functions:
+* tabata timer,
+* timer,
+* countdown timer.
 
 *Thanks for your attention and feedback!*
 
