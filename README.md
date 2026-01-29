@@ -6,7 +6,8 @@
 * табата таймер,
 * секундомер ,
 * таймер обратного отсчёта.
-
+___
+___
 
 Simple Tabata timer for work out. 
 Functions:
