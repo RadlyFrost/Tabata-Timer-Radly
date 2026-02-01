@@ -19,3 +19,9 @@ Functions:
 
 <img width="184" height="288" alt="{05292DD0-FBCA-4739-A996-A10DABB9CEA7}" src="https://github.com/user-attachments/assets/2927ffe0-59a9-41c6-984f-c0904c97935a" />
 
+
+
+
+## Author's Links
+
+[GitHub Homepage] (https://github.com/RadlyFrost)
