@@ -28,4 +28,4 @@ Functions:
 
 [GitHub Homepage](https://github.com/RadlyFrost "My GitHub")
 
-<a href="readme-top">back to top</a>
+<p align="right"> <a href="readme-top">back to top</a> </p>
