@@ -24,4 +24,4 @@ Functions:
 
 ## Author's Links
 
-[GitHub Homepage] (https://github.com/RadlyFrost)
+[GitHub Homepage] (https://github.com/RadlyFrost "My GitHub")
