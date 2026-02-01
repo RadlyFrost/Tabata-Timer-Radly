@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 # Tabata Timer Radly
 ## Simple tabata timer
 
@@ -25,3 +26,5 @@ Functions:
 ## Author's Links
 
 [GitHub Homepage](https://github.com/RadlyFrost "My GitHub")
+
+<a href="readme-top">back to top</a>
